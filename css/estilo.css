@@ -54,6 +54,7 @@ section section {
 section {
       section section {
          width: 50%;
+          text-aling:center;
     }
            }
            
@@ -111,7 +112,7 @@ form {
   
   @media screen and (max-width: 600px){
 .principal li {
-    display: inline-block;
+    display: none;
     line-height: 1.5;
     margin: 0 40px;
 }
