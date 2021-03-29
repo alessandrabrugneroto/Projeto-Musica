@@ -54,7 +54,7 @@ section section {
 section {
           section section 
           width: 50%;
-          text-aling:center;
+           right:100px;
     }
            
                
@@ -86,9 +86,9 @@ img {
     @media screen and (max-width: 600px){  
     img {
     width: 30%;
-     right:80px;
+     right:100px;
 }
-}
+
 ul {
     list-style-type: none;
     line-height: 2;
