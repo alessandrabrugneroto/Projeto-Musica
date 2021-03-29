@@ -86,6 +86,7 @@ img {
     @media screen and (max-width: 600px){  
     img {
     width: 50%;
+     right:50px;
 }
 }
 ul {
