@@ -52,11 +52,11 @@ section section {
       
        @media screen and (max-width: 600px){
 section {
-      section section {
-         width: 50%;
+          section section 
+          width: 50%;
           text-aling:center;
     }
-           }
+           
            
     
 h1 {
