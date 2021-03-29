@@ -107,3 +107,11 @@ form {
     line-height: 2.5;
     margin: 0 89px;
 }
+           
+  
+  @media screen and (max-width: 600px){
+.principal li {
+    display: inline-block;
+    line-height: 1.5;
+    margin: 0 40px;
+}
