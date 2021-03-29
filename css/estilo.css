@@ -63,6 +63,12 @@ h1 {
     font-size: 50px;
     font-weight: 300;
 }
+  @media screen and (max-width: 600px)             
+h1 {
+    font-size: 20px;
+    font-weight: 150;
+}
+           
 h3 {
     font-size: 30px;
     font-style: italic;
